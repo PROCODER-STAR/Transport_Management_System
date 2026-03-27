@@ -1,0 +1,29 @@
+========================================================
+                  BUS REGISTRATION VOUCHER              
+========================================================
+Registration ID: 6
+Date: 2025-05-12 02:31:16
+--------------------------------------------------------
+Name: Umair
+Email: abc@nu.edu.pk
+University ID: gwyru3gryc v  rdy fgc a6r gfdy dfuvgugruebtbeububuevhbjgd7bvegevgr trvefbuntr87eyreyiruhyey7vr
+Designation: Student
+--------------------------------------------------------
+Route Number: 1
+Route Name: Main Campus Route
+From: University Main Gate
+To: Hostel Area
+Departure: 07:30 AM
+Arrival: 08:30 AM
+--------------------------------------------------------
+Amount: PKR 5000.0
+Status: Pending
+--------------------------------------------------------
+Payment Instructions:
+1. Please pay the amount to the university account
+2. Reference: BUS-6
+3. Email payment proof to transport@university.edu
+4. Your registration will be approved after verification
+========================================================
+This is a computer generated voucher and does not require a signature.
+========================================================

@@ -1,0 +1,29 @@
+========================================================
+                  BUS REGISTRATION VOUCHER              
+========================================================
+Registration ID: 10
+Date: 2025-12-03 13:49:38
+--------------------------------------------------------
+Name: JAmal
+Email: jamal123@gmail.com
+University ID: 3493
+Designation: Faculty
+--------------------------------------------------------
+Route Number: 3
+Route Name: Express Route
+From: University Main Gate
+To: Business District
+Departure: 07:00 AM
+Arrival: 08:15 AM
+--------------------------------------------------------
+Amount: PKR 5000.0
+Status: Pending
+--------------------------------------------------------
+Payment Instructions:
+1. Please pay the amount to the university account
+2. Reference: BUS-10
+3. Email payment proof to transport@university.edu
+4. Your registration will be approved after verification
+========================================================
+This is a computer generated voucher and does not require a signature.
+========================================================

@@ -1,0 +1,29 @@
+========================================================
+                  BUS REGISTRATION VOUCHER              
+========================================================
+Registration ID: 8
+Date: 2025-05-12 02:52:12
+--------------------------------------------------------
+Name: Aman
+Email: aman@gmail.com
+University ID: 2001
+Designation: Student
+--------------------------------------------------------
+Route Number: 2
+Route Name: City Route
+From: University Main Gate
+To: City Center
+Departure: 08:00 AM
+Arrival: 09:30 AM
+--------------------------------------------------------
+Amount: PKR 5000.0
+Status: Pending
+--------------------------------------------------------
+Payment Instructions:
+1. Please pay the amount to the university account
+2. Reference: BUS-8
+3. Email payment proof to transport@university.edu
+4. Your registration will be approved after verification
+========================================================
+This is a computer generated voucher and does not require a signature.
+========================================================
